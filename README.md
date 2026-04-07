@@ -1,0 +1,3 @@
+- Thiết kế System Prompt để hướng dẫn LLM cách sử dụng công cụ một cách hiệu quả, bao gồm các quy tắc và hướng dẫn cụ thể.
+- Tối ưu lượng token sử dụng cho System Prompt để đảm bảo hiệu suất và chi phí.
+- Số lượng tokens sử dụng cho system prompt khoảng 400 - 450 Token
